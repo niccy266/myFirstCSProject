@@ -1,0 +1,10 @@
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\bin\Debug\My First App.exe.config
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\bin\Debug\My First App.exe
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\bin\Debug\My First App.pdb
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\obj\Debug\My First App.csprojAssemblyReference.cache
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\obj\Debug\My_First_App.Form1.resources
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\obj\Debug\My_First_App.Properties.Resources.resources
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\obj\Debug\My First App.csproj.GenerateResource.cache
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\obj\Debug\My First App.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\obj\Debug\My First App.exe
+C:\Users\Nicolas\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\My First App\obj\Debug\My First App.pdb

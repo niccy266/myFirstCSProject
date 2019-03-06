@@ -15,7 +15,7 @@ namespace My_First_App
         public Form1()
         {
             InitializeComponent();
-            System.Media.SoundPlayer didNaatHitHer = new System.Media.SoundPlayer(@"C:\Users\niccy\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\I did not hit her.wav");
+            System.Media.SoundPlayer didNaatHitHer = new System.Media.SoundPlayer(@"C:\Users\niccy\OneDrive\Ex Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\I did not hit her.wav");
             didNaatHitHer.Play();
         }
 
@@ -25,7 +25,7 @@ namespace My_First_App
 
             Pen pen1 = new Pen(Color.Blue, 2);
 
-            System.Media.SoundPlayer ohHiMark = new System.Media.SoundPlayer(@"C:\Users\niccy\Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\Oh, hi Mark.wav");
+            System.Media.SoundPlayer ohHiMark = new System.Media.SoundPlayer(@"C:\Users\niccy\OneDrive\Ex Dropbox\nico\C#\COMPX101\Week2\Introduction to Visual Studio\Project 1\My First App\Oh, hi Mark.wav");
             ohHiMark.Play();
 
         }
